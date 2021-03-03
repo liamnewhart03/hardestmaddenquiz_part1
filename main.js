@@ -77,7 +77,7 @@ function check(){
 		score = 7;
 	}
 
-	if (score>=15){
+	if (score>=1){
 		location.replace("https://www.w3schools.com")
 	}
 	}
