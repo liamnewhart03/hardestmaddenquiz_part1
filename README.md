@@ -1,1 +1,0 @@
-# hardestmaddenquiz_part1
