@@ -12,25 +12,25 @@ function check(){
 	var correct = 0;
 
 
-	if (question1 == "Lamar Jackson") {
+	if (question1 == "Chicago Bears") {
 		correct++;
 }
-	if (question2 == "Patrick Mahomes") {
+	if (question2 == "Peyton Manning") {
 		correct++;
 }	
-	if (question3 == "August") {
+	if (question3 == "Jim Brown") {
 		correct++;
 }
-	if (question4 == "50") {
+	if (question4 == "0") {
 		correct++;
 }
-	if (question5 == "?") {
+	if (question5 == "Gale Sayers") {
 		correct++;
 }
-	if (question6 == "?") {
+	if (question6 == "34") {
 		correct++;
 }
-	if (question7 == "?") {
+	if (question7 == "1") {
 		correct++;
 
 }
@@ -78,7 +78,7 @@ function check(){
 	}
 
 	if (score>=1){
-		location.replace("https://www.w3schools.com")
+		window.open('liam.newhart@gmail.com');
 	}
 	}
 	
